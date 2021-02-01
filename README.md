@@ -34,7 +34,7 @@ Hope you enjoy and save some trouble with mods management in arma 3 server.
    ```cmd
    a3smu.bat --user "boeca-scripters" --pass "boeca2302" --mods "C:\ARMA3_SERVER\modslist.txt" --steam "C:\STEAM_CMD" --server "C:\ARMA3_SERVER"
    ```
-   The arguments must be quoted as above if there are any windows's spetial characters.
+   The arguments must be quoted as above if there are any windows's spetial characters.  
    OBS: When setting the steam cmd folder and the server folder path, they need to point to a folder, not the steam cmd executable or arma 3 server executable !
  - To see the help message just use:
    ```cmd
