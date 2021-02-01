@@ -209,7 +209,7 @@ echo --steamcmd        : Path to the folder where steam cmd is installed.
 echo --server          : Path to the folder whare Arma 3 Server is installed.
 echo.
 echo If any of the arguments passed by these parameters contains spaces or any
-echo windows spetials characters such as '^^' the argument must be escaped.
+echo windows spetials characters such as '^^' the argument must be quoted.
 echo.
 echo.
 echo The mods file list txt must contain only one mod ID per line
